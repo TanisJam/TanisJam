@@ -30,6 +30,23 @@ AI-assisted workflows that raise team quality.
 
 ---
 
+<table>
+<tr>
+<td>
+
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanisJam&show_icons=true&hide_border=true&hide_title=true&bg_color=E7DFD2&text_color=2A2926&icon_color=2C9174)
+
+</td>
+<td>
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanisJam&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=E7DFD2&text_color=2A2926&title_color=DD266E)
+
+</td>
+</tr>
+</table>
+
+---
+
 - 🛠️ Frontend-heavy, comfortable across the stack — APIs, DB, infra
 - 🤖 Into AI-assisted engineering workflows with real standards
 - ✍️ I write about frontend systems and process at [mnr.ar](https://www.mnr.ar)
